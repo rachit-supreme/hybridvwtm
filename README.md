@@ -51,13 +51,12 @@ signal power remain minimal. This indicates that the design effectively minimize
 activity, leading to reduced dynamic power consumption.
 
 ## Key Highlights ##
-• Designed and FPGA-implemented an 8-bit Hybrid Vedic–Wallace Tree Multiplier in Verilog, 
+1. Designed and FPGA-implemented an 8-bit Hybrid Vedic–Wallace Tree Multiplier in Verilog, 
   optimizing speed, area, and power for high-performance digital systems.
-• Achieved up to 20% LUT reduction and improved energy efficiency, making the design 
+2. Achieved up to 20% LUT reduction and improved energy efficiency, making the design 
   suitable for DSP, FPGA-based signal processing, and hardware accelerator applications.
-• Reduction in dynamic power consumption by about 6–10% compared to conventional Vedic 
+3. Reduction in dynamic power consumption by about 6–10% compared to conventional Vedic 
   and Wallace multipliers.
-• Tools: Verilog, Xilinx Vivado, Artix-7 FPGA family board (xc7a35ticpg236-1L) 
 
 # References #
 1. Janwadkar S, Dhavse R. ”ASIC implementation of ECG denoising FIR filter by using
