@@ -50,6 +50,17 @@ Among dynamic components, clock power contributes approximately 12%, while logic
 signal power remain minimal. This indicates that the design effectively minimizes switching
 activity, leading to reduced dynamic power consumption.
 
+Target utilisation on XC7A35TICPG236-1L:
+
+| Resource | Target | Notes |
+|----------|--------|-------|
+| LUT | 0.38% | CARRY4 Blocks |
+| WNS | 2.637 ns | No setup violations |
+| WHS | 0.293 ns | No hold violations |
+| Fmax | ≥ 100 MHz | 10 ns clock period |
+| Dynamic Power | 0.003 W | Minimizes switching activity |
+
+
 ## Key Highlights ##
 1. Designed and FPGA-implemented an 8-bit Hybrid Vedic–Wallace Tree Multiplier in Verilog, 
   optimizing speed, area, and power for high-performance digital systems.
