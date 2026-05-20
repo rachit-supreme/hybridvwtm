@@ -58,3 +58,13 @@ activity, leading to reduced dynamic power consumption.
 • Reduction in dynamic power consumption by about 6–10% compared to conventional Vedic 
   and Wallace multipliers.
 • Tools: Verilog, Xilinx Vivado, Artix-7 FPGA family board (xc7a35ticpg236-1L) 
+
+# References #
+1. Janwadkar S, Dhavse R. ”ASIC implementation of ECG denoising FIR filter by using
+   hybrid Vedic–Wallace tree multiplier.” Int J Circ Theor Appl. 2024;52(4):1621-1646
+2. J. Tirthaji, Vedic Mathematics, Motilal Banarsidass, 1965.
+3. C. S. Wallace, ”A Suggestion for a Fast Multiplier,” IEEE Trans. Electronic Computers,
+   1964.
+4. Parhami B. ”Computer Arithmetic: Algorithms and Hardware Designs,” Oxford University Press, Inc.; 1999
+5. Pushpangadan R, Sukumaran V, Innocent R, Sasikumar D, Sundar V. ”High speed Vedic
+   multiplier for digital signal processors.” IETE J Res. 2009;55(6):282-286.
