@@ -1,6 +1,7 @@
-#### ABSTRACT ####
+#### 8-BIT HYBRID VEDIC WALLACE TREE MULTIPLIER ####
 
-8-bit Hybrid Vedic Wallace Tree Multiplier
+### ABSTRACT ###
+
 Multiply–Accumulate (MAC) operations form the computational backbone of digital signal
 processing (DSP) systems and machine learning accelerators, where efficient multiplication
 plays a critical role in determining overall performance. In such systems, low latency, reduced
